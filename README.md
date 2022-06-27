@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## About Me
+I'm a third year undergrad at UC San Diego pursuing Bachelor of Science in both Data Science and Applied Mathematics. I'm curious about Machine Learning, Mathematics as well as theoretical computer science and am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, it is 
+>Science for a Better Life
 
 You can use the [editor on GitHub](https://github.com/wantingmao01/wantingmao01.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
