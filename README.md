@@ -15,7 +15,7 @@ _June 2022 - Present_
 
 Working on projects of building bot to gather data with emphasize on password security from multiple websites and designing AI chatbot that gives security advices.
 
--[mini project -- Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Cindy Wang](xiw013@ucsd.edu), we created a simple chatbot that recommends dresses for users.
+-[mini project -- Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Cindy Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
 
 -[mini project -- Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin): a script that helps users log into amazon.com automatically.
 
@@ -24,7 +24,7 @@ Working on projects of building bot to gather data with emphasize on password se
 
     _September 2021 - Present_
 
-Collaboring with [Aoxi Li](aoli@ucsd.edu), [Juyoung Park](jup023@ucsd.edu), and [John Wu](jjw004@ucsd.edu), I implemented recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.
+Collaboring with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implemented recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.
 [more about this project](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
 
