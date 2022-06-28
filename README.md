@@ -6,7 +6,7 @@ I'm a third year undergrad at UC San Diego pursuing Bachelor of Science in both 
 
 ## Research Experience
 
-###**Undergrad Research Assistant at SEISUP Lab** with [Professor Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+1. **Undergrad Research Assistant at SEISUP Lab** with [Professor Imani N. S. Munyaka](https://www.imanimunyaka.com/)
 
 _June 2022 - Present_
 
@@ -17,7 +17,7 @@ Working on projects of building bot to gather data with emphasize on password se
 -[mini project -- Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin): a script that helps users log into amazon.com automatically.
 
 
-### **Implement Distribution Testing Algorithms** with [Professor Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
+2. **Implement Distribution Testing Algorithms** with [Professor Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
 
 _September 2021 - Present_
 
