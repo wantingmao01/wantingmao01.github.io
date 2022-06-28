@@ -1,5 +1,5 @@
 ## About Me
-I'm a third year undergrad at UC San Diego pursuing Bachelor of Science in both Data Science and Mathematics(Applied). I'm curious about Machine Learning, NLP, Mathematics as well as theoretical computer science and am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
+I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Science and Mathematics(Applied). I’m curious about Machine Learning, NLP, Mathematics as well as theoretical computer science and am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
 >Science for a Better Life
 
 
