@@ -4,14 +4,14 @@ I'm a third year undergrad at UC San Diego pursuing Bachelor of Science in both 
 
 
 ## Research Experience
-1. **Undergrad Research Assistant at SEISUP Lab** with [Professor Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+1. **Undergrad Research Assistant at SEISUP Lab** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - Present_
    - Working on projects of building bot to gather data with emphasize on password security from multiple websites and designing AI chatbot that gives security advices.
      - Mini project [Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Cindy Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
 
      - Mini project [Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin): a script that helps users log into amazon.com automatically.
 
-2. **Implement Distribution Testing Algorithms** with [Professor Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
+2. **Implement Distribution Testing Algorithms** with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
    - Collaboring with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implemented recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
