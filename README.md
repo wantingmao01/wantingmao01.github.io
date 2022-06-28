@@ -5,6 +5,9 @@ I'm a third year undergrad at UC San Diego pursuing Bachelor of Science in both 
 
 
 ## Research Experience
+1. First list item
+   - First nested list item
+     - Second nested list item
 
 1. **Undergrad Research Assistant at SEISUP Lab** with [Professor Imani N. S. Munyaka](https://www.imanimunyaka.com/)
 
@@ -19,7 +22,7 @@ Working on projects of building bot to gather data with emphasize on password se
 
 2. **Implement Distribution Testing Algorithms** with [Professor Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
 
-_September 2021 - Present_
+    _September 2021 - Present_
 
 Collaboring with [Aoxi Li](aoli@ucsd.edu), [Juyoung Park](jup023@ucsd.edu), and [John Wu](jjw004@ucsd.edu), I implemented recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.
 [more about this project](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
@@ -32,7 +35,9 @@ Collaboring with [Aoxi Li](aoli@ucsd.edu), [Juyoung Park](jup023@ucsd.edu), and 
 -Provost Honors _Winter 2021 - Present_
 
 -International Linguistics Olympiad China Finals(IOL China) _Summer 2019_
+
     -Individual Contest ---- First Prize
+    
     -Team Contest(as team leader) ---- Bronze
     
 -Second Prize of China Young Physicists’ Tournament _Winter 2019_
