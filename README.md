@@ -14,7 +14,7 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
 
 2. **Implement Distribution Testing Algorithms** with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
-   _ arly Research Scholars Program (ERSP)
+   - Early Research Scholars Program (ERSP)
    - Collaboring with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implemented recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
 
