@@ -16,6 +16,7 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
       - Assist team members  analyze a total of 10000+ tweets.
       - Mentor high school students on the project.
    - Work on project of building recommendation chatbot for security-related softwares and further anlyze people's opinion towards the chatbot.
+   - Mini Projects: 
      - Mini project [Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Cindy Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
 
      - Mini project [Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin): a script that helps users log into amazon.com automatically.
