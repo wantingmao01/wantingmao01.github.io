@@ -14,11 +14,11 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
    - Early Research Scholars Program (ERSP) Summer Program
    - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python.
       - Individually analyze 2300+ tweets mentioning “spam call”-related keywords and tags.
-      - Assist team members  analyze a total of 10000+ tweets.
+      - Assist team members ([Akshay Mehta](https://github.com/Akshay024), [Claire Lee](https://github.com/clairecgl) and [Xinyi(Cindy) Wang](https://github.com/xiw013)) analyze a total of 10000+ tweets.
       - Mentor high school students on the project.
-   - Work on project of building recommendation chatbot for security-related softwares and further explore how the chatbot influences users' model model.
+   - Work on project of building recommendation chatbot for security-related softwares and further explore how the chatbot influences users' model model. [More about this Project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
    - Mini Projects: 
-     - Mini project [Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Cindy Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
+     - Mini project [Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Xinyi(Cindy) Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
 
      - Mini project [Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin): a script that helps users log into amazon.com automatically.
 
