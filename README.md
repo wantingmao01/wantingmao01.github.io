@@ -8,6 +8,7 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
     - _September 2022 - Present_
     - Explore SAUR Conversational Recommender System, Saleforce Converse and RASA framework for conversational chatbot.
     - Develop chatbot that recommends security-related softwares.
+    
 2. **Machine Learning Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
@@ -24,7 +25,7 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
 3. **Implement Distribution Testing Algorithms** with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
-   - Collaboring with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implemented recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
+   - Collaboring with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
 
 ## Awards
