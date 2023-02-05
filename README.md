@@ -7,14 +7,14 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
 1. [**Implementation of Distribution Testing Algorithms**](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms) with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
-   - Collaboring with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
+   - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
    
 2. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022_
     - Explore SAUR Conversational Recommender System, Saleforce Converse and RASA framework for conversational chatbot.
     - Develop chatbot that recommends security-related softwares.
     
-3. **Machine Learning Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+3. **Student Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
    - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python.
