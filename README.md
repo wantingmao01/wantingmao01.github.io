@@ -13,7 +13,7 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
     - _September 2022 - December 2022 and March 2023 - Present_
     - Explore SAUR Conversational Recommender System, Saleforce Converse and RASA framework for conversational chatbot.
     - Develop chatbot that recommends security-related softwares.
-3. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](qxue2@cs.washington.edu) and [Antonio Glenn](aglenn5@cs.washington.edu)
+3. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
     - _March 2023 - Present_
     - Process ECG signal data collected by smart earrings.
     - Build ML models that identify and classify abnormal ECG signals.    
