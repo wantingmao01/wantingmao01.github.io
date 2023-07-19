@@ -10,8 +10,8 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
 2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
-  - _Start in September 2023_
-  - Data Science major capstone project. During the fall quarter, we will delve into the topic of Diffusion Models, and in winter, we'll develop our own project upon our exploration.
+   - _Start in September 2023_
+   - Data Science major capstone project. During the fall quarter, we will delve into the topic of Diffusion Models, and in winter, we'll develop our own project upon our exploration.
    
 3. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022 and March 2023 - June 2023_
