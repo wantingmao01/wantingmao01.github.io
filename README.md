@@ -8,17 +8,21 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
    - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
+
+2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
+  - _Start in September 2023_
+  - Data Science major capstone project. During the fall quarter, we will delve into the topic of Diffusion Models, and in winter, we'll develop our own project upon our exploration.
    
-2. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+3. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022 and March 2023 - June 2023_
     - Explored SAUR Conversational Recommender System, Saleforce Converse and RASA framework for conversational chatbot.
     - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI.
-3. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
+4. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
     - _March 2023 - Present_
     - Processed ECG signal data collected by smart earrings.
     - Employed ML techniques(Adaboost decision tree, 1D-CNN etc.) to identify abnormal ECG signals with scikit-learn and Tensorflow keras.
     
-4. **Student Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+5. **Student Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
    - Worked on project of building recommendation chatbot for security-related softwares and further explored how the chatbot influences users' model model. [More about this project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
@@ -29,7 +33,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
         
     
 ## Projects
-1. [Dress Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot)
+1. [Dress Recommendation Chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot)
    - In collaboration with [Xinyi(Cindy) Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
      
 2. [Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin)
