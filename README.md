@@ -48,9 +48,9 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
 4. Analysis of US House Representatives Stock Trade
    - With Zhengyun Nie(znie@ucsd.edu), we analyzed the stock trades of the US House of Representatives.
    - This project is consisted of two parts:
-        - [Data Propocessing & Analysis](https://github.com/wantingmao01/US-House-Representatives-Stock-Trade-Analysis):
+        - [Data Propocessing & Analysis](https://drive.google.com/file/d/14XIbCWtjVlDM1YcvXpve81b4yOQQz_nF/view?usp=sharing):
           We cleaned the data, explored the data through univariate and bivariate anlysis as well as aggregation, assessed the missingness of one of the columns, and conducted a hypothesis test on whether the trades are evenly distributed on each weekday.
-        - [ML classifier](https://github.com/wantingmao01/US-House-Representatives-Stock-Trade-Classifier/blob/main/README.md):
+        - [ML classifier](https://drive.google.com/file/d/1u91zqX1ucOdzAyfDEK5yosQAGJ3ZTZb_/view?usp=sharing):
           Using the clean data we obtained from the previous analysis, we built up a decision tree classifier model which predicts whether a transaction if purchare or sale given 12 features with ≈ 68 percent accurracy. Moreover, we analzed the fairness of our model with respect to the titles of different representatives.
 5. [Weather Bot](https://github.com/wantingmao01/Weather_bot)
    - A practice of Rasa following a [tutorial](https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/).
