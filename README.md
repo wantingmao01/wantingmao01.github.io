@@ -39,7 +39,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
 2. [Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin)
    - A script that helps users log into amazon.com automatically.
      
-3. [Rotten Tomato Movie Score Visualization](https://github.com/wantingmao01/Rotten_Tomato_Score_Visualization)
+3. [Rotten Tomato Movie Score Visualization](https://wantingmao01.github.io/Rotten_Tomato_Score_Visualization/)
    - A Visualization of an analysis on Rotten Tomato scores.
    - With the help of JavaSript D3, HTML, and CSS, this project explores what elements make a good movies.
    - This visualization consists three plots with interaction, including scatter plot, geometric plot, and network plot.
