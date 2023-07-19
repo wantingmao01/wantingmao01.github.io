@@ -10,7 +10,7 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
    - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
    
 2. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
-    - _September 2022 - December 2022 and March 2023 - Present_
+    - _September 2022 - December 2022 and March 2023 - June 2023_
     - Explore SAUR Conversational Recommender System, Saleforce Converse and RASA framework for conversational chatbot.
     - Develop chatbot that recommends security-related softwares.
 3. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
@@ -21,15 +21,19 @@ I’m a third-year undergrad at UC San Diego pursuing B.S. degrees in Data Scien
 4. **Student Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
-   - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python.
+   - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python.[More about this project.](https://github.com/Munyaka-Research-Group/su22_allprojects/tree/main/twitterFU)
       - Individually analyze 2300+ tweets mentioning “spam call”-related keywords and tags.
-      - Assist team members ([Akshay Mehta](https://github.com/Akshay024), [Claire Lee](https://github.com/clairecgl) and [Xinyi(Cindy) Wang](https://github.com/xiw013)) analyze a total of 10000+ tweets.
+      - Assist team members([Akshay Mehta](https://github.com/Akshay024), [Claire Lee](https://github.com/clairecgl) and [Xinyi(Cindy) Wang](https://github.com/xiw013)) analyze a total of 10000+ tweets.
       - Mentor high school students on the project.
    - Work on project of building recommendation chatbot for security-related softwares and further explore how the chatbot influences users' model model. [More about this Project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
    - Mini Projects: 
      - Mini project [Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot): In collaboration with [Xinyi(Cindy) Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
 
      - Mini project [Auto login tool for amazon.com](https://github.com/wantingmao01/amazon_auto_signin): a script that helps users log into amazon.com automatically.
+    
+## Projects
+1. [Recommendation chatbot](https://github.com/wantingmao01/dress_recommendation-chatbot)
+    In collaboration with [Xinyi(Cindy) Wang](https://github.com/xiw013), we created a simple chatbot that recommends dresses for users.
 
 
 ## Awards
