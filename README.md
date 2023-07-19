@@ -7,7 +7,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
 1. [**Implementation of Distribution Testing Algorithms**](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms) with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
-   - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome.[More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
+   - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
 2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
   - _Start in September 2023_
@@ -15,7 +15,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    
 3. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022 and March 2023 - June 2023_
-    - Explored SAUR Conversational Recommender System, Saleforce Converse and RASA framework for conversational chatbot.
+    - Explored SAUR Conversational Recommender System, Saleforce Converse and Rasa framework for conversational chatbot.
     - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI.
       
 4. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
