@@ -21,7 +21,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
 4. **Student Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
-   - Worked on project of building recommendation chatbot for security-related softwares and further explore how the chatbot influences users' model model. [More about this project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
+   - Worked on project of building recommendation chatbot for security-related softwares and further explored how the chatbot influences users' model model. [More about this project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
    - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python. [More about this project.](https://github.com/Munyaka-Research-Group/su22_allprojects/tree/main/twitterFU)
       - Individually analyzed 2300+ tweets mentioning “spam call”-related keywords and tags.
       - Assisted team members([Akshay Mehta](https://github.com/Akshay024), [Claire Lee](https://github.com/clairecgl) and [Xinyi(Cindy) Wang](https://github.com/xiw013)) analyze a total of 10000+ tweets.
