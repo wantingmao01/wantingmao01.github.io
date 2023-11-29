@@ -1,5 +1,5 @@
 ## About Me
-I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Science and Mathematics(Applied). I’m curious about Machine Learning, Mathematics, and Theoretical Computer Science as well as the application of those fields, but I'm also willing and hoping to explore many other fields in CS, DS and Mathematics. I am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
+I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Science and Mathematics(Applied). I’m curious about Machine Learning models and their applications in Vision. Science, and many other fields, but I'm also willing and hoping to explore many other fields in CS, DS and Mathematics. I am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
 >Science for a Better Life
 
 
@@ -13,20 +13,22 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    - _Start in September 2023_
    - Data Science major capstone project. During the fall quarter, we will delve into the topic of Diffusion Models, and in winter, we'll develop our own project upon our exploration.
    
-3. **Volunteer Undergraduate Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+3. **The Impact of Security-Related Chatbots on Users’ Mental Model** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022 and March 2023 - June 2023_
+    - Admitted as part of the ERSP summer program.
+    - Background: Although recommendation chatbots are commonly used, we want to assess the influence of a security-focused chatbot on user mental frameworks and the overall user experience.
     - Explored SAUR Conversational Recommender System, Saleforce Converse and Rasa framework for conversational chatbot.
-    - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI.
+    - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI. [More about this project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
       
 4. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
     - _March 2023 - May 2023_
+    - Selected to be part of the UW CSnext workshop.
     - Processed ECG signal data collected by smart earrings.
-    - Employed ML techniques(Adaboost decision tree, 1D-CNN etc.) to identify abnormal ECG signals with scikit-learn and Tensorflow keras.
+    - Employed ML techniques(Adaboost decision tree, 1D-CNN etc.) to identify abnormal ECG signals with scikit-learn and Tensorflow keras.[More about this project](https://docs.google.com/presentation/d/1gANPhlKGhzyfjHVtH1_s1UDwlTLk4VhuGtrWEP0PTjY/edit?usp=sharing)
     
-5. **Student Researcher at UC San Diego Jacobs School of Engineering** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+5. **Tweeter Data Analysis** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
-   - Worked on project of building recommendation chatbot for security-related softwares and further explored how the chatbot influences users' model model. [More about this project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
    - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python. [More about this project.](https://github.com/Munyaka-Research-Group/su22_allprojects/tree/main/twitterFU)
       - Individually analyzed 2300+ tweets mentioning “spam call”-related keywords and tags.
       - Assisted team members([Akshay Mehta](https://github.com/Akshay024), [Claire Lee](https://github.com/clairecgl) and [Xinyi(Cindy) Wang](https://github.com/xiw013)) analyze a total of 10000+ tweets.
