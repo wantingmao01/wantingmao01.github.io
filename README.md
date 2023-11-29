@@ -18,7 +18,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
     - Admitted as part of the ERSP summer program.
     - Background: Although recommendation chatbots are commonly used, we want to assess the influence of a security-focused chatbot on user mental frameworks and the overall user experience.
     - Explored SAUR Conversational Recommender System, Saleforce Converse and Rasa framework for conversational chatbot.
-    - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI. [Slides](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view)
+    - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI. [Slides](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view), [Talk](https://drive.google.com/file/d/10Hf-54o2aWcD0c1wKaCTqPY2S1R-Upg1/view?usp=drive_link)
       
 4. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
     - _March 2023 - May 2023_
