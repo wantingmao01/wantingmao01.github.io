@@ -7,7 +7,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
 1. [**Implementation of Distribution Testing Algorithms**](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms) with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
-   - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [More about this project.](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
+   - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [Repo](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
 
 2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
    - _Start in September 2023_
@@ -18,18 +18,18 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
     - Admitted as part of the ERSP summer program.
     - Background: Although recommendation chatbots are commonly used, we want to assess the influence of a security-focused chatbot on user mental frameworks and the overall user experience.
     - Explored SAUR Conversational Recommender System, Saleforce Converse and Rasa framework for conversational chatbot.
-    - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI. [More about this project](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
+    - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI. [Slides](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view).
       
 4. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
     - _March 2023 - May 2023_
     - Selected to be part of the UW CSnext workshop.
     - Processed ECG signal data collected by smart earrings.
-    - Employed ML techniques(Adaboost decision tree, 1D-CNN etc.) to identify abnormal ECG signals with scikit-learn and Tensorflow keras.[More about this project](https://docs.google.com/presentation/d/1gANPhlKGhzyfjHVtH1_s1UDwlTLk4VhuGtrWEP0PTjY/edit?usp=sharing)
+    - Employed ML techniques(Adaboost decision tree, 1D-CNN etc.) to identify abnormal ECG signals with scikit-learn and Tensorflow keras.[Slides](https://docs.google.com/presentation/d/1gANPhlKGhzyfjHVtH1_s1UDwlTLk4VhuGtrWEP0PTjY/edit?usp=sharing)
     
 5. **Tweeter Data Analysis** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
-   - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python. [More about this project.](https://github.com/Munyaka-Research-Group/su22_allprojects/tree/main/twitterFU)
+   - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python.
       - Individually analyzed 2300+ tweets mentioning “spam call”-related keywords and tags.
       - Assisted team members([Akshay Mehta](https://github.com/Akshay024), [Claire Lee](https://github.com/clairecgl) and [Xinyi(Cindy) Wang](https://github.com/xiw013)) analyze a total of 10000+ tweets.
       - Mentored high school students on the project.
