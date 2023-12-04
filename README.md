@@ -1,5 +1,5 @@
 ## About Me
-I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Science and Mathematics(Applied). I’m curious about Machine Learning models and their applications in inverse problems, vison, science, and many other fields, but I'm also willing and hoping to explore many other fields in CS, DS and Mathematics. I am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
+I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Science and Mathematics(Applied). I’m curious about Machine Learning models and their applications in inverse problems, vision, science, and many other fields, but I'm also willing and hoping to explore many other fields in CS, DS and Mathematics. I am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
 >Science for a Better Life
 
 
@@ -8,12 +8,13 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
    - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [Repo](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
+   - Participating in the writing of the paper “Experimental Evaluations of Distribution Testing Algorithm” and prepared for submission.
 
 2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
    - _September 2023 - Present_
    - Data Science major capstone project.
    - Explored limitations of diffusion model in reconstrusting the exact distributions. Also, investigated on it's inability to reconstruct multiple distributions. Those findings provide understanding into the theoretical reasons behind generating the out-of-distribution data points.
-   - Starting next quarter, we'll dive into the application of diffusion model in inverse problems. Inspired by this cool [project](https://medium.com/@ruoshi.liu/shadows-shed-light-on-3d-objects-6cf475cbc840), we want to reconstruct 3D objects based on their shadows with diffusion-based generative model. Furthermore, we'd like to study means to leverage prediction accuracy with more information and deal with senarios in the case of multiple objects. If time permits, we plan to apply our outcomes to reconstruct buildings from satellite images.
+   - Starting next quarter, with my awesome team members(Jiatu Li], Zhengyun Nie, and Jessica Song), I'll dive into the application of diffusion model in inverse problems. Inspired by this cool [project](https://medium.com/@ruoshi.liu/shadows-shed-light-on-3d-objects-6cf475cbc840), we want to reconstruct 3D objects based on their shadows with diffusion-based generative model. Furthermore, we'd like to study means to leverage prediction accuracy with more information and deal with senarios in the case of multiple objects. If time permits, we plan to apply our outcomes to reconstruct buildings from satellite images.
    
 3. **The Impact of Security-Related Chatbots on Users’ Mental Model** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022 and March 2023 - June 2023_
