@@ -12,24 +12,29 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
 
 2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
    - _September 2023 - Present_
-   - Data Science major capstone project.
+   - Data Science major capstone project
    - Explored limitations of diffusion model in reconstrusting the exact distributions. Also, investigated on it's inability to reconstruct multiple distributions. Those findings provide understanding into the theoretical reasons behind generating the out-of-distribution data points.
-   - Starting next quarter, with my awesome team members(Jiatu Li], Zhengyun Nie, and Jessica Song), I'll dive into the application of diffusion model in inverse problems. Inspired by this cool [project](https://medium.com/@ruoshi.liu/shadows-shed-light-on-3d-objects-6cf475cbc840), we want to reconstruct 3D objects based on their shadows with diffusion-based generative model. Furthermore, we'd like to study means to leverage prediction accuracy with more information and deal with senarios in the case of multiple objects. If time permits, we plan to apply our outcomes to reconstruct buildings from satellite images.
+   - In winter quarter, with my awesome team members(Jiatu Li], Zhengyun Nie, and Jessica Song), I am going to leverage the numerical accuracy of diffusion models. We noticed that diffusion model is not good at generating images with desired number of objects. Thus, we want to train diffusion model specifically on numerical accuracy and offer an interactive input methods for users.
+
+3. **High-fidelity Customized Scene/Character Video Generation**
+   - _Januaray 2024 - Present_
+   - Tencent Games Engine Technology Salon, Rocket Plan
+   - Current generative models are widely used in image and video generation, however, the results usually cannot achieve high-fidelity as expected. We want to study algorithms that generate high-fidelity video with customized characters or scenes from the perspective of image dynamics.
    
-3. **The Impact of Security-Related Chatbots on Users’ Mental Model** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+4. **The Impact of Security-Related Chatbots on Users’ Mental Model** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
     - _September 2022 - December 2022 and March 2023 - June 2023_
     - Admitted as part of the ERSP summer program.
     - Background: Although recommendation chatbots are commonly used, we want to assess the influence of a security-focused chatbot on user mental frameworks and the overall user experience.
     - Explored SAUR Conversational Recommender System, Saleforce Converse and Rasa framework for conversational chatbot.
     - Developed Recommendation AI Chatbot for security softwares, including the design of icon and UI. [Slides](https://drive.google.com/file/d/1tVnZK06rlR5YoPayzCYYr4HqEn6LoroF/view), [Talk](https://drive.google.com/file/d/10Hf-54o2aWcD0c1wKaCTqPY2S1R-Upg1/view?usp=drive_link)
       
-4. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
+5. [**CSNext: Graduate School Prep Workshop at UW Reality Lab**](https://realitylab.uw.edu/components/csnext.html) with [Shirley Xue](https://xueqiuyue.com) and [Antonio Glenn](https://antoniog.page)
     - _March 2023 - May 2023_
     - Selected to be part of the UW CSnext workshop.
     - Processed ECG signal data collected by smart earrings.
     - Employed ML techniques(Adaboost decision tree, 1D-CNN etc.) to identify abnormal ECG signals with scikit-learn and Tensorflow keras.[Slides](https://docs.google.com/presentation/d/1gANPhlKGhzyfjHVtH1_s1UDwlTLk4VhuGtrWEP0PTjY/edit?usp=sharing)
     
-5. **Tweeter Data Analysis** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
+6. **Tweeter Data Analysis** with Professor [Imani N. S. Munyaka](https://www.imanimunyaka.com/)
    - _June 2022 - September 2022_
    - Early Research Scholars Program (ERSP) Summer Program
    - Twitter analysis including Data Gathering, Data Preprocessing, Keyword Trend Analysis, Sentiment Analysis, and Topic Modeling in both R and Python.
