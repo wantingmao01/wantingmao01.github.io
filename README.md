@@ -10,8 +10,8 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [Repo](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
    - Participating in the writing of the paper “Experimental Evaluations of Distribution Testing Algorithm” and prepared for submission.
 
-2. **From Theory to Pixels: Diffusion Models for Image and Data Generation** with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
-   - _September 2023 - Present_
+2. [**From Theory to Pixels: Diffusion Models for Image and Data Generation**](https://dsc180-b11-2.github.io/layout-grounded-optimization/) with Professor [Alex Cloninger](https://ccom.ucsd.edu/~acloninger/index.html) and Professor [Rayan Saab](https://mathweb.ucsd.edu/~rsaab/)
+   - _September 2023 - March 2024_
    - Data Science major capstone project
    - Explored limitations of diffusion model in reconstrusting the exact distributions. Also, investigated on it's inability to reconstruct multiple distributions. Those findings provide understanding into the theoretical reasons behind generating the out-of-distribution data points.
    - In winter quarter, with my awesome team members(Jiatu Li], Zhengyun Nie, and Jessica Song), I am going to leverage the numerical accuracy of diffusion models. We noticed that diffusion model is not good at generating images with desired number of objects. Thus, we want to train diffusion model specifically on numerical accuracy and offer an interactive input methods for users.
