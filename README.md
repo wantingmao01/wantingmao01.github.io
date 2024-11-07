@@ -1,5 +1,7 @@
 ## About Me
-I'm a first-year PhD student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. [Jim Rehg](https://rehg.org). My interest lies in artificial intelligence for healthcare, with a current emphasis on self-supervised learning methods for analyzing time-series data. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
+I'm a first-year PhD student in Computer Science at University of Illinois Urbana-Champaign, advised by Prof. [Jim Rehg](https://rehg.org). Before my PhD, I obtained my Bachelor's degrees majoring in Data Science and Applied Mathematics from UC San Diego.
+
+My interest lies in artificial intelligence for healthcare, with a current emphasis on self-supervised learning methods for analyzing time-series data. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
 >Science for a Better Life
 
 ## Undergrad Research Experience
