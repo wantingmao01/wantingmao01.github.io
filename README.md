@@ -4,7 +4,7 @@ I'm a first-year PhD student in Computer Science at University of Illinois Urban
 
 ## Undergrad Research Experience
 1. [**Implementation of Distribution Testing Algorithms**](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms) with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
-   - _September 2021 - Present_
+   - _September 2021 - June 2024_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
    - Collaborating with [Aoxi Li](https://github.com/aoxil), [Juyoung Park](https://github.com/jup023), and [John Wu](https://github.com/wujjohn), I implement recent algorithms in distribution testings, test the algorithms' efficiency, and determine whether the theoretical expectations match the experimental outcome. [Repo](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms)
    - Participating in the writing of the paper “Experimental Evaluations of Distribution Testing Algorithm” and prepared for submission.
