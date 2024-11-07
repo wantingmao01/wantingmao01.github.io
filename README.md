@@ -1,9 +1,8 @@
 ## About Me
-I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Science and Mathematics(Applied). I’m curious about Machine Learning models and their applications in inverse problems, vision, science, and many other fields, but I'm also willing and hoping to explore many other fields in CS, DS and Mathematics. I am looking forward to gaining more about these areas from my undergrad education and beyond. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
+I'm a first-year PhD student in Computer Science at University of Illinois Urbana-Champaign, where I work with Prof. [Jim Rehg](https://rehg.org) as my advisor. My interest lies in Artificial Intelligence for Healtchcare, and I currently work in self-supervised learning methodologies for time-series data. My ultimate goal is to create a safer, happier, and more equitable world with all my knowledge. Borrowing the slogan of Bayer, my motto is
 >Science for a Better Life
 
-
-## Research Experience
+## Undergrad Research Experience
 1. [**Implementation of Distribution Testing Algorithms**](https://github.com/wujjohn/Implementation-of-Distribution-Testing-Algorithms) with Professor [Daniel M. Kane](https://cseweb.ucsd.edu/~dakane/)
    - _September 2021 - Present_
    - Volunteer Undergraduate Researcher at Early Research Scholars Program (ERSP)
@@ -17,7 +16,7 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
    - In winter quarter, with my awesome team members(Jiatu Li], Zhengyun Nie, and Jessica Song), I am going to leverage the numerical accuracy of diffusion models. We noticed that diffusion model is not good at generating images with desired number of objects. Thus, we want to train diffusion model specifically on numerical accuracy and offer an interactive input methods for users.
 
 3. **High-fidelity Customized Scene/Character Video Generation**
-   - _Januaray 2024 - Present_
+   - _Januaray 2024 - August 2024_
    - Tencent Games Engine Technology Salon, Rocket Plan
    - Current generative models are widely used in image and video generation, however, the results usually cannot achieve high-fidelity as expected. We want to study algorithms that generate high-fidelity video with customized characters or scenes from the perspective of image dynamics.
    
@@ -64,17 +63,3 @@ I’m a fourth-year undergrad at UC San Diego pursuing B.S. degrees in Data Scie
           
 5. [Weather Bot](https://github.com/wantingmao01/Weather_bot)
    - A practice of Rasa following a [tutorial](https://www.geeksforgeeks.org/chatbots-using-python-and-rasa/).
-   
-
-## Awards
-
-- Marshall College Honors Program (_Winter 2021 - Present_)
-
-- Provost Honors (_Winter 2021 - Present_)
-
-- First Prize of Individual Contest in International Linguistics Olympiad China Finals(IOL China) (_Summer 2019_)
-    
-- Second Prize of China Young Physicists’ Tournament (_Winter 2019_)
-
-- Top 5% of COMC(Canadian Open Mathematics Challenge) China (_Fall 2018_)
-
